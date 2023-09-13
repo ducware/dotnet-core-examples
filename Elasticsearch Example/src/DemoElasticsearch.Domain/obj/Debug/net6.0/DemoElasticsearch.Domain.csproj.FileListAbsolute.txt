@@ -1,0 +1,15 @@
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\bin\Debug\net6.0\DemoElasticsearch.Domain.deps.json
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\bin\Debug\net6.0\DemoElasticsearch.Domain.dll
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\bin\Debug\net6.0\DemoElasticsearch.Domain.pdb
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\DemoElasticsearch.Domain.csproj.AssemblyReference.cache
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\DemoElasticsearch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\DemoElasticsearch.Domain.AssemblyInfoInputs.cache
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\DemoElasticsearch.Domain.AssemblyInfo.cs
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\DemoElasticsearch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\DemoElasticsearch.Domain.dll
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\refint\DemoElasticsearch.Domain.dll
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\DemoElasticsearch.Domain.pdb
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\ref\DemoElasticsearch.Domain.dll
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\bin\Debug\net6.0\DemoElasticsearch.Core.dll
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\bin\Debug\net6.0\DemoElasticsearch.Core.pdb
+C:\Users\duc\Desktop\elastic\DemoElasticsearch\src\DemoElasticsearch.Domain\obj\Debug\net6.0\DemoElasticsearch.Domain.csproj.CopyComplete
