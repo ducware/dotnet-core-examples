@@ -1,0 +1,15 @@
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\bin\Debug\net6.0\DemoCache.Services.deps.json
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\bin\Debug\net6.0\DemoCache.Services.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\bin\Debug\net6.0\DemoCache.Services.pdb
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\DemoCache.Services.csproj.AssemblyReference.cache
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\DemoCache.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\DemoCache.Services.AssemblyInfoInputs.cache
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\DemoCache.Services.AssemblyInfo.cs
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\DemoCache.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\DemoCache.Services.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\refint\DemoCache.Services.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\DemoCache.Services.pdb
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\ref\DemoCache.Services.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\bin\Debug\net6.0\DemoCache.Core.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\bin\Debug\net6.0\DemoCache.Core.pdb
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Services\obj\Debug\net6.0\DemoCache.Services.csproj.CopyComplete
