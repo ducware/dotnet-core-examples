@@ -1,0 +1,17 @@
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\DemoCache.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\DemoCache.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\DemoCache.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\DemoCache.Infrastructure.AssemblyInfo.cs
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\DemoCache.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\bin\Debug\net6.0\DemoCache.Infrastructure.deps.json
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\bin\Debug\net6.0\DemoCache.Infrastructure.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\bin\Debug\net6.0\DemoCache.Infrastructure.pdb
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\bin\Debug\net6.0\DemoCache.Core.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\bin\Debug\net6.0\DemoCache.Core.pdb
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\DemoCache.Infrastructure.csproj.CopyComplete
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\DemoCache.Infrastructure.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\refint\DemoCache.Infrastructure.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\DemoCache.Infrastructure.pdb
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\obj\Debug\net6.0\ref\DemoCache.Infrastructure.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\bin\Debug\net6.0\DemoCache.Services.dll
+C:\Users\Dau Tran\Desktop\DemoCache\DemoCache\DemoCache.Infrastructure\bin\Debug\net6.0\DemoCache.Services.pdb
