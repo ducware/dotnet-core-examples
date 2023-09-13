@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Infrastructure\\DemoElasticsearch.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Core\\DemoElasticsearch.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Core\\DemoElasticsearch.Core.csproj",
+        "projectName": "DemoElasticsearch.Core",
+        "projectPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Core\\DemoElasticsearch.Core.csproj",
+        "packagesPath": "C:\\Users\\duc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Domain\\DemoElasticsearch.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Domain\\DemoElasticsearch.Domain.csproj",
+        "projectName": "DemoElasticsearch.Domain",
+        "projectPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Domain\\DemoElasticsearch.Domain.csproj",
+        "packagesPath": "C:\\Users\\duc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Core\\DemoElasticsearch.Core.csproj": {
+                "projectPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Core\\DemoElasticsearch.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Infrastructure\\DemoElasticsearch.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Infrastructure\\DemoElasticsearch.Infrastructure.csproj",
+        "projectName": "DemoElasticsearch.Infrastructure",
+        "projectPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Infrastructure\\DemoElasticsearch.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\duc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Core\\DemoElasticsearch.Core.csproj": {
+                "projectPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Core\\DemoElasticsearch.Core.csproj"
+              },
+              "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Domain\\DemoElasticsearch.Domain.csproj": {
+                "projectPath": "C:\\Users\\duc\\Desktop\\elastic\\DemoElasticsearch\\src\\DemoElasticsearch.Domain\\DemoElasticsearch.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
