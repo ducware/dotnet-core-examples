@@ -1,10 +1,6 @@
-﻿
-
-using MailKit.Net.Smtp;
-using MailKit.Security;
-using Microsoft.AspNetCore.Mvc;
-using MimeKit;
-using MimeKit.Text;
+﻿using Microsoft.AspNetCore.Mvc;
+using Send_Email.Models;
+using Send_Email.Services;
 
 namespace Send_Email.Controllers
 {
@@ -12,22 +8,17 @@ namespace Send_Email.Controllers
     [ApiController]
     public class SendMailController : ControllerBase
     {
-        [HttpPost]
-        public async Task<IActionResult> SendEmailAsyn(string body)
+        private readonly IEmailService _emailService;
+        public SendMailController(IEmailService emailService)
         {
-            var email = new MimeMessage();
-            email.From.Add(MailboxAddress.Parse("clair.rohan@ethereal.email"));
-            email.To.Add(MailboxAddress.Parse("clair.rohan@ethereal.email"));
-            email.Subject = "Test email subject";
-            email.Body = new TextPart(TextFormat.Html) { Text = body };
+            _emailService = emailService;
+        }
 
-            using var stmp = new SmtpClient();
-            stmp.Connect("smtp.ethereal.email", 587, SecureSocketOptions.StartTls);
-            stmp.Authenticate("clair.rohan@ethereal.email", "SpmnuzXbUwpqDM8UuB");
-            stmp.Send(email);
-            stmp.Disconnect(true);
-
-            return Ok();
+        [HttpPost]
+        public async Task<IActionResult> SendEmailAsync(EmailDto request)
+        {
+            _emailService.SendEmail(request);
+            return Ok("Email sent");
         }
     }
 }
