@@ -1,0 +1,40 @@
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\appsettings.json
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Send Email.exe
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Send Email.deps.json
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Send Email.runtimeconfig.json
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Send Email.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Send Email.pdb
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\MailKit.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.csproj.AssemblyReference.cache
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.AssemblyInfoInputs.cache
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.AssemblyInfo.cs
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.csproj.CoreCompileInputs.cache
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\staticwebassets\msbuild.Send Email.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\staticwebassets\msbuild.build.Send Email.props
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Send Email.props
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Send Email.props
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\scopedcss\bundle\Send Email.styles.css
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.csproj.CopyComplete
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\refint\Send Email.dll
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.pdb
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\Send Email.genruntimeconfig.cache
+C:\Users\Dau Tran\Documents\GitHub\dotnet-core-examples\Send Email\Send Email\obj\Debug\net6.0\ref\Send Email.dll
