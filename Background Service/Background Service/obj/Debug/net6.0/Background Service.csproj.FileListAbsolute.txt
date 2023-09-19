@@ -1,0 +1,32 @@
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\appsettings.Development.json
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\appsettings.json
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Background Service.exe
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Background Service.deps.json
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Background Service.runtimeconfig.json
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Background Service.dll
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Background Service.pdb
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Git\dotnet-core-examples\Background Service\Background Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.csproj.AssemblyReference.cache
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.MvcApplicationPartsAssemblyInfo.cs
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.MvcApplicationPartsAssemblyInfo.cache
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\staticwebassets\msbuild.Background Service.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\staticwebassets\msbuild.build.Background Service.props
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Background Service.props
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Background Service.props
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\staticwebassets.build.json
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\staticwebassets.development.json
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\scopedcss\bundle\Background Service.styles.css
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.csproj.CopyComplete
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.dll
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\refint\Background Service.dll
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.pdb
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\Background Service.genruntimeconfig.cache
+E:\Git\dotnet-core-examples\Background Service\Background Service\obj\Debug\net6.0\ref\Background Service.dll
