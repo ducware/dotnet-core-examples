@@ -20,5 +20,5 @@
 Real-time communication between client and server, using background service
 
 ### 4. References: 
-1. https://www.milanjovanovic.tech/blog/adding-real-time-functionality-to-dotnet-applications-with-signalr
-2. https://youtu.be/O7oaxFgNuYo?feature=shared
+#### https://www.milanjovanovic.tech/blog/adding-real-time-functionality-to-dotnet-applications-with-signalr
+#### https://youtu.be/O7oaxFgNuYo?feature=shared
