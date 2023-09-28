@@ -30,3 +30,10 @@ E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\obj\Debug\net6.0\refi
 E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\obj\Debug\net6.0\SignalR.API.pdb
 E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\obj\Debug\net6.0\SignalR.API.genruntimeconfig.cache
 E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\obj\Debug\net6.0\ref\SignalR.API.dll
+E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Git\dotnet-core-examples\Blazor and SignalR\SignalR.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

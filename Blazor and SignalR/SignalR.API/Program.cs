@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using SignalR.API.Hubs;
 using SignalR.API.Services;
 
@@ -15,6 +16,9 @@ builder.Services.AddSignalR();
 builder.Services.AddHostedService<ServerTimeNotifier>();
 
 builder.Services.AddCors();
+
+builder.Services.AddAuthorization();
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer();
 
 var app = builder.Build();
 
