@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Multiple EF Core DbContexts.props" />
+</Project>
