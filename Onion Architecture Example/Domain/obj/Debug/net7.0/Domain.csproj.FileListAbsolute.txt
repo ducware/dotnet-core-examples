@@ -1,0 +1,11 @@
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\bin\Debug\net7.0\Domain.dll
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\bin\Debug\net7.0\Domain.pdb
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\obj\Debug\net7.0\Domain.dll
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\obj\Debug\net7.0\Domain.pdb
+E:\Git\dotnet-core-examples\Onion Architecture Example\Domain\obj\Debug\net7.0\ref\Domain.dll
