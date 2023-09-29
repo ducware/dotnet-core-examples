@@ -1,4 +1,6 @@
-﻿using Hangfire_with_Twitter.Models;
+﻿using Hangfire;
+using Hangfire_with_Twitter.Models;
+using Mapster;
 using Microsoft.AspNetCore.Mvc;
 using System.Text;
 using Tweetinvi;
@@ -16,7 +18,24 @@ namespace Hangfire_with_Twitter.Controllers
             _configuration = configuration;
         }
 
+        [HttpPost("schedule")]
+        public IActionResult ScheduleTweet(PostScheduledTweetRequestDto newTweet)
+        {
+            var delay = newTweet.ScheduleFor - DateTime.UtcNow;
+
+            if (delay > TimeSpan.Zero)
+            {
+                BackgroundJob.Schedule(() => PostTweet(newTweet.Adapt<PostTweetRequestDto>()), delay);
+                return Ok("Tweet scheduled!");
+            }
+            else
+            {
+                return BadRequest("please enter a valid date and time!");
+            }
+        }
+
         [HttpPost]
+        [AutomaticRetry(Attempts =0)]
         public async Task<IActionResult> PostTweet(PostTweetRequestDto newTweet)
         {
             var apiKey = _configuration.GetValue<string>("TweetConfig:ApiKey");

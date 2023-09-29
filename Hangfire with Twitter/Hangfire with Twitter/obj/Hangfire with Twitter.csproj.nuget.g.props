@@ -21,5 +21,6 @@
     <PkgTweetinviAPI Condition=" '$(PkgTweetinviAPI)' == '' ">C:\Users\duc\.nuget\packages\tweetinviapi\5.0.4</PkgTweetinviAPI>
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\duc\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5</PkgMicrosoft_Extensions_ApiDescription_Server>
     <PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets Condition=" '$(PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets)' == '' ">C:\Users\duc\.nuget\packages\microsoft.visualstudio.azure.containers.tools.targets\1.19.4</PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets>
+    <PkgHangfire_SqlServer Condition=" '$(PkgHangfire_SqlServer)' == '' ">C:\Users\duc\.nuget\packages\hangfire.sqlserver\1.8.5</PkgHangfire_SqlServer>
   </PropertyGroup>
 </Project>
