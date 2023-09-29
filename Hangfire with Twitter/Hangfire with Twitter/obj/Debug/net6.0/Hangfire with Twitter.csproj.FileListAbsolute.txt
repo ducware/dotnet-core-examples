@@ -1,0 +1,96 @@
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\appsettings.Development.json
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\appsettings.json
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire with Twitter.exe
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire with Twitter.deps.json
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire with Twitter.runtimeconfig.json
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire with Twitter.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire with Twitter.pdb
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Autofac.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Tweetinvi.Controllers.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Tweetinvi.Core.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Tweetinvi.Credentials.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Tweetinvi.Logic.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Tweetinvi.Security.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Tweetinvi.Streams.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Tweetinvi.WebLogic.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Tweetinvi.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.csproj.AssemblyReference.cache
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.MvcApplicationPartsAssemblyInfo.cs
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.MvcApplicationPartsAssemblyInfo.cache
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\staticwebassets\msbuild.Hangfire with Twitter.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\staticwebassets\msbuild.build.Hangfire with Twitter.props
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hangfire with Twitter.props
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Hangfire with Twitter.props
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\staticwebassets.build.json
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\staticwebassets.development.json
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\scopedcss\bundle\Hangfire with Twitter.styles.css
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.csproj.CopyComplete
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\refint\Hangfire with Twitter.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.pdb
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\Hangfire with Twitter.genruntimeconfig.cache
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\obj\Debug\net6.0\ref\Hangfire with Twitter.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Azure.Core.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Azure.Identity.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire.Core.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire.NetCore.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Hangfire.SqlServer.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Mapster.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Mapster.Core.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Git\dotnet-core-examples\Hangfire with Twitter\Hangfire with Twitter\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

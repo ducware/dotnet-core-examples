@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dup4qekUCvDdI1L3IsIpnVnWPY7Q9dDzFzMVPTxlTIs=",
+  "Source": "Hangfire with Twitter",
+  "BasePath": "_content/Hangfire with Twitter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
