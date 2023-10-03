@@ -1,0 +1,15 @@
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\bin\Debug\net6.0\Application.deps.json
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\bin\Debug\net6.0\Application.dll
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\bin\Debug\net6.0\Application.pdb
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\bin\Debug\net6.0\Domain.dll
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\bin\Debug\net6.0\Domain.pdb
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.dll
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.pdb
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\ref\Application.dll
