@@ -18,10 +18,7 @@ namespace Infrastructure.Repositories
 
         public async Task<Animal> GetByIdAsync(int id)
         {
-            var animal = await _context.Animals.FirstOrDefaultAsync(a => a.Id == id)
-                            ?? throw new KeyNotFoundException($"No animal found with id: {id}");
-
-            return animal;
+            return await _context.Animals.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<Animal> AddAsync(Animal entity)
@@ -29,9 +26,10 @@ namespace Infrastructure.Repositories
             return (await _context.AddAsync(entity)).Entity;
         }
 
-        public Task UpdateAsync(Animal entity)
+        public async Task UpdateAsync(Animal entity)
         {
-            throw new NotImplementedException();
+            _context.Animals.Update(entity);
+            await Task.CompletedTask;
         }
 
         public async Task DeleteAsync(Animal entity)

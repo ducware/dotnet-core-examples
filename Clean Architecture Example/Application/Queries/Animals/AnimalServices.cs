@@ -34,5 +34,17 @@ namespace Application.Queries.Animals
 
             return animals.ToList();
         }
+
+        public async Task<IEnumerable<Animal>> GetBirdsAsync()
+        {
+            const string query = @"select * from clean.animals
+                                  where isbird = 1";
+
+            using var conn = _factory.CreateConnection();
+
+            var animals = await conn.QueryAsync<Animal>(query);
+
+            return animals.ToList();
+        }
     }
 }

@@ -7,5 +7,6 @@ namespace Application.Queries.Animals
     {
         Task<IEnumerable<Animal>> GetAnimalsAsync();
         Task<Animal> GetAnimalByIdAsync(int id);
+        Task<IEnumerable<Animal>> GetBirdsAsync();
     }
 }
