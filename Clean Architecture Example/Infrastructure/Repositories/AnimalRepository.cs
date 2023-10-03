@@ -18,12 +18,8 @@ namespace Infrastructure.Repositories
 
         public async Task<Animal> GetByIdAsync(int id)
         {
-            var animal = await _context.Animals.FirstOrDefaultAsync(a => a.Id == id);
-
-            if (animal == null)
-            {
-                throw new KeyNotFoundException($"No animal found with id: {id}");
-            }
+            var animal = await _context.Animals.FirstOrDefaultAsync(a => a.Id == id)
+                            ?? throw new KeyNotFoundException($"No animal found with id: {id}");
 
             return animal;
         }

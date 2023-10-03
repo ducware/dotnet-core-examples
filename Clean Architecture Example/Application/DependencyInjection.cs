@@ -1,4 +1,5 @@
 ﻿using Application.Queries.Animals;
+using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
@@ -14,15 +15,9 @@ namespace Application
             services.AddMediatR(configuration =>
                 configuration.RegisterServicesFromAssembly(assembly));
 
-            services.AddFluentValidation(options =>
-            {
-                // Validate child properties and root collection elements
-                options.ImplicitlyValidateChildProperties = true;
-                options.ImplicitlyValidateRootCollectionElements = true;
+            services.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters();
 
-                // Automatic registration of validators in assembly
-                options.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly());
-            });
+            services.AddValidatorsFromAssembly(assembly);
 
             services.AddAutoMapper(assembly);
 

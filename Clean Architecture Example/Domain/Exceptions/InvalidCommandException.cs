@@ -26,10 +26,10 @@ namespace Domain.Exceptions
         public InvalidCommandItemDto(string code, string message)
         {
             this.Code = code;
-            this.Message = message;
+            this.Mesasge = message;
         }
 
         public string Code { get; set; }
-        public string Message { get; set; }
+        public string Mesasge { get; set; }
     }
 }
