@@ -40,7 +40,7 @@ namespace Api.Controllers
         /// <summary>
         /// GET api/animals: Lấy danh sách động vật theo id.
         /// </summary>
-        /// <param name="query"></param>
+        /// <param name="id"></param>
         /// <returns></returns>
         [HttpGet("{id:int}")]
         public async Task<IActionResult> GetAnimalByIdAsync([FromRoute] int id)
