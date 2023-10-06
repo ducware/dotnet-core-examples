@@ -1,0 +1,108 @@
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\appsettings.Development.json
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\appsettings.json
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\GraphQL Example.exe
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\GraphQL Example.deps.json
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\GraphQL Example.runtimeconfig.json
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\GraphQL Example.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\GraphQL Example.pdb
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Azure.Core.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Azure.Identity.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\GreenDonut.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Execution.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Fetching.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Language.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Types.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Utilities.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\HotChocolate.Validation.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.csproj.AssemblyReference.cache
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.MvcApplicationPartsAssemblyInfo.cs
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.MvcApplicationPartsAssemblyInfo.cache
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\staticwebassets\msbuild.GraphQL Example.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\staticwebassets\msbuild.build.GraphQL Example.props
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GraphQL Example.props
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GraphQL Example.props
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\staticwebassets.build.json
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\staticwebassets.development.json
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\scopedcss\bundle\GraphQL Example.styles.css
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.csproj.CopyComplete
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\refint\GraphQL Example.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.pdb
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\GraphQL Example.genruntimeconfig.cache
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\obj\Debug\net6.0\ref\GraphQL Example.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Humanizer.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.CodeDom.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\System.Text.Json.dll
+E:\Git\dotnet-core-examples\GraphQL Example\GraphQL Example\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
