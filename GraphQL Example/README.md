@@ -165,3 +165,5 @@ mutation($id: Int!){
   "id": 6
 }
 ```
+
+### Reference: https://www.learmoreseekmore.com/2022/01/basic-graphql-crud-operation-dotnet6-hotchocolate-v12-sqldatabase.html
