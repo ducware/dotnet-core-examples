@@ -87,7 +87,7 @@ cd bin/Release/
 ✨ Run command to publish package
 
 ```bash
-dotnet nuget push Ducware.Example.1.0.0.nupkg --api-key oy2negp53cygwlo7uehqsaybyldfhhtuhg3mffxd63uke4 --source https://api.nuget.org/v3/index.json
+dotnet nuget push Ducware.Example.1.0.0.nupkg --api-key {your_api_key} --source https://api.nuget.org/v3/index.json
 ```
 
 ✨ Done !
