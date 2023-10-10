@@ -1,0 +1,12 @@
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\bin\Debug\net8.0\Publish Nuget Package Example.deps.json
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\bin\Debug\net8.0\Publish Nuget Package Example.dll
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\bin\Debug\net8.0\Publish Nuget Package Example.pdb
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\Publish Nuget Package Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\Publish Nuget Package Example.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\Publish Nuget Package Example.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\Publish Nuget Package Example.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\Publish Nuget Package Example.sourcelink.json
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\Publish Nuget Package Example.dll
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\refint\Publish Nuget Package Example.dll
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\Publish Nuget Package Example.pdb
+E:\Git\dotnet-core-examples\Publish Nuget Package Example\obj\Debug\net8.0\ref\Publish Nuget Package Example.dll
