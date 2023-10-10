@@ -9,7 +9,7 @@ cd Publish NugetPackageExample
 ```
 
 ```bash
-$dotnet new classlib
+dotnet new classlib
 ```
 
 Create file static code your library
