@@ -1,0 +1,12 @@
+E:\Git\dotnet-core-examples\NugetPackgeExample\bin\Release\net8.0\NugetPackgeExample.deps.json
+E:\Git\dotnet-core-examples\NugetPackgeExample\bin\Release\net8.0\NugetPackgeExample.dll
+E:\Git\dotnet-core-examples\NugetPackgeExample\bin\Release\net8.0\NugetPackgeExample.pdb
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\NugetPackgeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\NugetPackgeExample.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\NugetPackgeExample.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\NugetPackgeExample.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\NugetPackgeExample.sourcelink.json
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\NugetPackgeExample.dll
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\refint\NugetPackgeExample.dll
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\NugetPackgeExample.pdb
+E:\Git\dotnet-core-examples\NugetPackgeExample\obj\Release\net8.0\ref\NugetPackgeExample.dll
