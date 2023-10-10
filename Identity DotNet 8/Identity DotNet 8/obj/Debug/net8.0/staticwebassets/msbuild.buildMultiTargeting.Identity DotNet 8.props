@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Identity DotNet 8.props" />
+</Project>
