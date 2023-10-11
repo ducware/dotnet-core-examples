@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JWT Authentication and Authorization Role-Based.props" />
+</Project>
