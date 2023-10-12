@@ -1,0 +1,41 @@
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.csproj.AssemblyReference.cache
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.MvcApplicationPartsAssemblyInfo.cs
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.MvcApplicationPartsAssemblyInfo.cache
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.sourcelink.json
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\appsettings.Development.json
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\appsettings.json
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\JWT Authentication and Authorization Role-Based.exe
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\JWT Authentication and Authorization Role-Based.deps.json
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\JWT Authentication and Authorization Role-Based.runtimeconfig.json
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\JWT Authentication and Authorization Role-Based.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\JWT Authentication and Authorization Role-Based.pdb
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\staticwebassets.build.json
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\staticwebassets.development.json
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\staticwebassets\msbuild.JWT Authentication and Authorization Role-Based.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\staticwebassets\msbuild.build.JWT Authentication and Authorization Role-Based.props
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JWT Authentication and Authorization Role-Based.props
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JWT Authentication and Authorization Role-Based.props
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\scopedcss\bundle\JWT Authentication and Authorization Role-Based.styles.css
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.csproj.CopyComplete
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\refint\JWT Authentication and Authorization Role-Based.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.pdb
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\JWT Authentication and Authorization Role-Based.genruntimeconfig.cache
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\obj\Debug\net6.0\ref\JWT Authentication and Authorization Role-Based.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
