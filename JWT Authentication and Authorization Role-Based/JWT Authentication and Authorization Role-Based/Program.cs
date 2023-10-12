@@ -3,7 +3,7 @@ using JWT_Authentication_and_Authorization_Role_Based;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDIServices();
+builder.Services.AddDIServices(builder.Configuration);
 
 
 builder.Services.AddControllers();
@@ -21,6 +21,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

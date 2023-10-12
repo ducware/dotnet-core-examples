@@ -36,3 +36,6 @@ E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT 
 E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Git\dotnet-core-examples\JWT Authentication and Authorization Role-Based\JWT Authentication and Authorization Role-Based\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

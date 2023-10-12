@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JWT Authentication and Authorization Role-Based")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb839d6dee76c86850f17a6120be7276294f240a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98d635528278d01ad0f4e95e5eec5c43c54a6eae")]
 [assembly: System.Reflection.AssemblyProductAttribute("JWT Authentication and Authorization Role-Based")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JWT Authentication and Authorization Role-Based")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

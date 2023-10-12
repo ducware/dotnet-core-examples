@@ -1,3 +1,5 @@
+using JWT_Authentication_and_Authorization_Role_Based.Const;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JWT_Authentication_and_Authorization_Role_Based.Controllers
@@ -18,6 +20,7 @@ namespace JWT_Authentication_and_Authorization_Role_Based.Controllers
             _logger = logger;
         }
 
+        [Authorize(Roles = RoleConst.Admin)]
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {

@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "s06JbIyKheu2aoyI1aQ0dKJw+su47vRyABW1A/Qkzzomnxv5mZk2EeOm/q1g1a0TQzWQTwOuo+tnaIaYMzCiaA==",
+  "dgSpecHash": "VKZeqkV/kvwZgnLH2h4cx4X+eaaLZm6ZDvbjPy6NAM0v30N6jFC+5vQtqGLF6kiVOCrhpPzr+DdMNXxxdO7Xbw==",
   "success": true,
   "projectFilePath": "E:\\Git\\dotnet-core-examples\\JWT Authentication and Authorization Role-Based\\JWT Authentication and Authorization Role-Based\\JWT Authentication and Authorization Role-Based.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\duc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\duc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\duc\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.2\\microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
     "C:\\Users\\duc\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.2\\microsoft.identitymodel.jsonwebtokens.7.0.2.nupkg.sha512",
     "C:\\Users\\duc\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.2\\microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
+    "C:\\Users\\duc\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\duc\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\duc\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.2\\microsoft.identitymodel.tokens.7.0.2.nupkg.sha512",
     "C:\\Users\\duc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\duc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
