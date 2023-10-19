@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD Mongodb.props" />
+</Project>
