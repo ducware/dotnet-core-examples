@@ -1,0 +1,46 @@
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\appsettings.Development.json
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\appsettings.json
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\CRUD Mongodb.exe
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\CRUD Mongodb.deps.json
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\CRUD Mongodb.runtimeconfig.json
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\CRUD Mongodb.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\CRUD Mongodb.pdb
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\AWSSDK.Core.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\DnsClient.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\MongoDB.Bson.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\MongoDB.Driver.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\SharpCompress.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\Snappier.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\ZstdSharp.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.csproj.AssemblyReference.cache
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.MvcApplicationPartsAssemblyInfo.cs
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.MvcApplicationPartsAssemblyInfo.cache
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.sourcelink.json
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\staticwebassets.build.json
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\staticwebassets.development.json
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\staticwebassets\msbuild.CRUD Mongodb.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD Mongodb.props
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD Mongodb.props
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD Mongodb.props
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\scopedcss\bundle\CRUD Mongodb.styles.css
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.csproj.CopyComplete
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\refint\CRUD Mongodb.dll
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.pdb
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\CRUD Mongodb.genruntimeconfig.cache
+E:\Git\dotnet-core-examples\CRUD Mongodb\CRUD Mongodb\obj\Debug\net6.0\ref\CRUD Mongodb.dll
