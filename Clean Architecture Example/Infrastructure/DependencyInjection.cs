@@ -17,21 +17,33 @@ namespace Infrastructure
             services.AddSingleton<SqlConnectionFactory>();
             //services.AddScoped<IAnimalRepository, AnimalRepository>();
 
-            var assembly = Assembly.GetExecutingAssembly();
-            var types = assembly.GetTypes()
-                .Where(type => type.IsClass   // chỉ kiểm tra các lớp
-                    && !type.IsAbstract  // không kiểm tra các lớp abstract
-                    && type.GetInterfaces()  // lay cac interface ma type này kế thừa
-                        .Any(i => i.IsGenericType  // kiểm tra xem có interface nào là generic type không
-                                && i.GetGenericTypeDefinition() == typeof(IRepository<>)));  // kiểm tra xem có interface nào kế thừa từ IRepository<T> không
+            //var assembly = Assembly.GetExecutingAssembly();
+            //var types = assembly.GetTypes()
+            //    .Where(type => type.IsClass   // chỉ kiểm tra các lớp
+            //        && !type.IsAbstract  // không kiểm tra các lớp abstract
+            //        && type.GetInterfaces()  // lay cac interface ma type này kế thừa
+            //            .Any(i => i.IsGenericType  // kiểm tra xem có interface nào là generic type không
+            //                    && i.GetGenericTypeDefinition() == typeof(IRepository<>)));  // kiểm tra xem có interface nào kế thừa từ IRepository<T> không
 
-            foreach (var type in types)
-            {
-                foreach (var iface in type.GetInterfaces())
-                {
-                    services.AddScoped(iface, type); // đăng ký dịch vụ với DI container
-                }
-            }
+            //foreach (var type in types)
+            //{
+            //    foreach (var iface in type.GetInterfaces())
+            //    {
+            //        services.AddScoped(iface, type); // đăng ký dịch vụ với DI container
+            //    }
+            //}
+
+            // Use Scrutor library
+            services.Scan(s => s
+                .FromApplicationDependencies()
+                .AddClasses(c => c
+                    .Where(t => t.IsClass
+                    && !t.IsAbstract
+                    && t.GetInterfaces().Any(i =>
+                        i.IsGenericType
+                        && i.GetGenericTypeDefinition() == typeof(IRepository<>))))
+                .AsImplementedInterfaces()
+                .WithScopedLifetime());
 
             services.AddTransient<ISqlConnectionFactory, SqlConnectionFactory>();
 
