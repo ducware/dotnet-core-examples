@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MinimalAPI.Coupon.Api.props" />
+</Project>
