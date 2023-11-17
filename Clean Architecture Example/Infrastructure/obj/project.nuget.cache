@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CktXGUJZtfSUII6FueweXsLhiWVTfVRy+++ytK+Q2kCyig5mqsTDFBEQoSra5hPJLHicwjfGVGY6HeMOrH1+pQ==",
+  "dgSpecHash": "xwyQG/HsXavKpKJlMIU8E3CAo7tyzjOKj7Lyd9bZvgWNG7jIew4wQC2BYaLrzSqhA1bWxxf0jN0xnj8NO0/y/A==",
   "success": true,
   "projectFilePath": "E:\\Git\\dotnet-core-examples\\Clean Architecture Example\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [

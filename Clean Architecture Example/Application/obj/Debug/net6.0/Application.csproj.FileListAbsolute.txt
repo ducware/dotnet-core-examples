@@ -13,3 +13,4 @@ E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net
 E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\refint\Application.dll
 E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.pdb
 E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\ref\Application.dll
+E:\Git\dotnet-core-examples\Clean Architecture Example\Application\obj\Debug\net6.0\Application.sourcelink.json

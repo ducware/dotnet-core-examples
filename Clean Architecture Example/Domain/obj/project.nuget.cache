@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DNZf5YIdD32zZaAumjKxDuYgHfXUqDwvld48MMriLw96d3ALv91FpSAZiRZQ9xftAKMBpnsEaCiMHe5ITOAaNw==",
+  "dgSpecHash": "Fm3SD2l/RksuvnTdGTTfno6oxZ3HMH8tY0AuPc8bdQ+ArU79rhLKb6EH/wb5YRludtb9YavXM9mOkcHx6igzqg==",
   "success": true,
   "projectFilePath": "E:\\Git\\dotnet-core-examples\\Clean Architecture Example\\Domain\\Domain.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "op+YuavUHAFY4RWDtPwhTj0wn9NiJZm4o2oNPIQoSUBstP4IV+JekpQ5dETwgSN5BP3rMiksWxIUXzIbklr18w==",
+  "dgSpecHash": "Nxn9b3JFvKxr7fbK00/aKdPlMyQfJjPptM1VWtlOl6S46aKgMIeWfv+j9/B3F1XXNqv8dsVixw+O/YMDuIULig==",
   "success": true,
   "projectFilePath": "E:\\Git\\dotnet-core-examples\\Clean Architecture Example\\Api\\Api.csproj",
   "expectedPackageFiles": [

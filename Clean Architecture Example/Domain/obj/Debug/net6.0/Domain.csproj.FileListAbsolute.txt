@@ -10,3 +10,4 @@ E:\Git\dotnet-core-examples\Clean Architecture Example\Domain\obj\Debug\net6.0\r
 E:\Git\dotnet-core-examples\Clean Architecture Example\Domain\obj\Debug\net6.0\Domain.pdb
 E:\Git\dotnet-core-examples\Clean Architecture Example\Domain\obj\Debug\net6.0\ref\Domain.dll
 E:\Git\dotnet-core-examples\Clean Architecture Example\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Git\dotnet-core-examples\Clean Architecture Example\Domain\obj\Debug\net6.0\Domain.sourcelink.json

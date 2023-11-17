@@ -100,3 +100,4 @@ E:\Git\dotnet-core-examples\Clean Architecture Example\Api\bin\Debug\net6.0\runt
 E:\Git\dotnet-core-examples\Clean Architecture Example\Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\Git\dotnet-core-examples\Clean Architecture Example\Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 E:\Git\dotnet-core-examples\Clean Architecture Example\Api\bin\Debug\net6.0\Dapper.dll
+E:\Git\dotnet-core-examples\Clean Architecture Example\Api\obj\Debug\net6.0\Api.sourcelink.json
