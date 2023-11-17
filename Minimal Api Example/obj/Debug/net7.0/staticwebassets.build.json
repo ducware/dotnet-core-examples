@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4bevB7CHV4Wn7qmm1DbFzNl0iVnzRv70OoT8xFGY9O0=",
+  "Source": "MinimalAPI.CouponApi",
+  "BasePath": "_content/MinimalAPI.CouponApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

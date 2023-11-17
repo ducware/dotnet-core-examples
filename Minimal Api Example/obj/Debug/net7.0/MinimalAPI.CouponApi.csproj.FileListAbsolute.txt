@@ -1,0 +1,75 @@
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.csproj.AssemblyReference.cache
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.AssemblyInfoInputs.cache
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.AssemblyInfo.cs
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.csproj.CoreCompileInputs.cache
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\appsettings.Development.json
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\appsettings.json
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\MinimalAPI.CouponApi.exe
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\MinimalAPI.CouponApi.deps.json
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\MinimalAPI.CouponApi.runtimeconfig.json
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\MinimalAPI.CouponApi.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\MinimalAPI.CouponApi.pdb
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\staticwebassets\msbuild.MinimalAPI.CouponApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.MinimalAPI.CouponApi.props
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPI.CouponApi.props
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MinimalAPI.CouponApi.props
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\scopedcss\bundle\MinimalAPI.CouponApi.styles.css
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.csproj.CopyComplete
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.dll
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\refint\MinimalAPI.CouponApi.dll
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.pdb
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\MinimalAPI.CouponApi.genruntimeconfig.cache
+E:\Practice\MinimalAPI.Coupon.Api\obj\Debug\net7.0\ref\MinimalAPI.CouponApi.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\AutoMapper.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\FluentValidation.dll
+E:\Practice\MinimalAPI.Coupon.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\appsettings.Development.json
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\appsettings.json
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\MinimalAPI.CouponApi.exe
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\MinimalAPI.CouponApi.deps.json
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\MinimalAPI.CouponApi.runtimeconfig.json
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\MinimalAPI.CouponApi.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\MinimalAPI.CouponApi.pdb
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\AutoMapper.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\FluentValidation.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.csproj.AssemblyReference.cache
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.AssemblyInfoInputs.cache
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.AssemblyInfo.cs
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.csproj.CoreCompileInputs.cache
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.sourcelink.json
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\staticwebassets.build.json
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\staticwebassets.development.json
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\staticwebassets\msbuild.MinimalAPI.CouponApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\staticwebassets\msbuild.build.MinimalAPI.CouponApi.props
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPI.CouponApi.props
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MinimalAPI.CouponApi.props
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\scopedcss\bundle\MinimalAPI.CouponApi.styles.css
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.csproj.CopyComplete
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\refint\MinimalAPI.CouponApi.dll
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.pdb
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\MinimalAPI.CouponApi.genruntimeconfig.cache
+E:\Git\dotnet-core-examples\Minimal Api Example\obj\Debug\net7.0\ref\MinimalAPI.CouponApi.dll
