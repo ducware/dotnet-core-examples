@@ -3,6 +3,8 @@ using Serilog.Sinks.Elasticsearch;
 using Serilog;
 using System.Reflection;
 using Serilog.Exceptions;
+using Nest;
+using Elasticsearch.Net;
 
 namespace LogToElasticsearch.Installers
 {
@@ -19,7 +21,7 @@ namespace LogToElasticsearch.Installers
 
             var indexFormat = $"{Assembly.GetExecutingAssembly().GetName().Name.ToLower()}-{environment.ToLower().Replace(".", "_")}-{DateTime.UtcNow:yyyy-MM-dd}";
 
-            // Serilog
+            //Serilog
             Log.Logger = new LoggerConfiguration()
                 .Enrich.FromLogContext()
                 .Enrich.WithExceptionDetails()
@@ -29,7 +31,8 @@ namespace LogToElasticsearch.Installers
                     new Uri(elasticsearchConfiguration.Uri))
                 {
                     AutoRegisterTemplate = true,
-                    IndexFormat = indexFormat
+                    IndexFormat = indexFormat,
+                    ModifyConnectionSettings = x => x.BasicAuthentication(elasticsearchConfiguration.Username, elasticsearchConfiguration.Password),
                 })
                 .CreateLogger();
         }
