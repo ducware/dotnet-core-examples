@@ -10,9 +10,14 @@ namespace LogToElasticsearch.Installers
     {
         public void InstallServices(IServiceCollection services, IConfiguration configuration)
         {
-            var elasticsearchConfiguration = new ElasticsearchConfiguration();
-            configuration.GetSection(nameof(ElasticsearchConfiguration)).Bind(elasticsearchConfiguration);
+            // SOLUTION 1:
+            //var elasticsearchConfiguration = new ElasticsearchConfiguration();
+            //configuration.GetSection(nameof(ElasticsearchConfiguration)).Bind(elasticsearchConfiguration);
+            //services.AddSingleton(elasticsearchConfiguration);
 
+            // SOLUTION 2:
+            var elasticsearchConfiguration = configuration.GetSection(nameof(ElasticsearchConfiguration)).Get<ElasticsearchConfiguration>();
+            elasticsearchConfiguration ??= new ElasticsearchConfiguration();
             services.AddSingleton(elasticsearchConfiguration);
 
             var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
