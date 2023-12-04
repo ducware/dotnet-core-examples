@@ -1,10 +1,8 @@
 ﻿using LogToElasticsearch.Configurations;
-using Serilog.Sinks.Elasticsearch;
 using Serilog;
-using System.Reflection;
 using Serilog.Exceptions;
-using Nest;
-using Elasticsearch.Net;
+using Serilog.Sinks.Elasticsearch;
+using System.Reflection;
 
 namespace LogToElasticsearch.Installers
 {
@@ -13,7 +11,7 @@ namespace LogToElasticsearch.Installers
         public void InstallServices(IServiceCollection services, IConfiguration configuration)
         {
             var elasticsearchConfiguration = new ElasticsearchConfiguration();
-            configuration.GetSection(ElasticsearchConfiguration.Section).Bind(elasticsearchConfiguration);
+            configuration.GetSection(nameof(ElasticsearchConfiguration)).Bind(elasticsearchConfiguration);
 
             services.AddSingleton(elasticsearchConfiguration);
 
